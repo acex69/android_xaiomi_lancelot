@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lancelot.mk
+    $(LOCAL_DIR)/spark_lancelot.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lancelot-user \
-    lineage_lancelot-userdebug \
-    lineage_lancelot-eng
+    spark_lancelot-user \
+    spark_lancelot-userdebug \
+    spark_lancelot-eng
